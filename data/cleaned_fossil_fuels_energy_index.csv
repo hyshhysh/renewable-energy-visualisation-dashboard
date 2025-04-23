@@ -1,0 +1,284 @@
+Entity,Year,Coal price index,Oil spot crude price index
+Australia,2018,131.13506,
+Australia,2019,100.0,
+Australia,2020,82.49764,
+Australia,2021,153.49947,
+Australia,2022,321.71237,
+Australia,2023,190.99263,
+Brent,2003,,44.900246
+Brent,2004,,59.592995
+Brent,2005,,84.90983
+Brent,2006,,101.4538
+Brent,2007,,112.73701
+Brent,2008,,151.46411
+Brent,2009,,96.04535
+Brent,2010,,123.804436
+Brent,2011,,173.2668
+Brent,2012,,173.91171
+Brent,2013,,169.22215
+Brent,2014,,154.09613
+Brent,2015,,81.585884
+Brent,2016,,68.11054
+Brent,2017,,84.398
+Brent,2018,,111.05657
+Brent,2019,,100.0
+Brent,2020,,65.158035
+Brent,2021,,110.436485
+Brent,2022,,157.79333
+Brent,2023,,128.70512
+Colombia,2010,115.519936,
+Colombia,2011,155.54305,
+Colombia,2012,126.849525,
+Colombia,2013,105.70006,
+Colombia,2014,98.0352,
+Colombia,2015,92.28824,
+Colombia,2016,102.662254,
+Colombia,2017,134.1242,
+Colombia,2018,141.94177,
+Colombia,2019,100.0,
+Colombia,2020,88.10084,
+Colombia,2021,195.85841,
+Colombia,2022,484.54446,
+Colombia,2023,194.83344,
+Dubai,2003,,41.99129
+Dubai,2004,,52.60442
+Dubai,2005,,73.43541
+Dubai,2006,,96.49776
+Dubai,2007,,106.61429
+Dubai,2008,,147.98685
+Dubai,2009,,95.97694
+Dubai,2010,,122.0866
+Dubai,2011,,166.27058
+Dubai,2012,,171.1846
+Dubai,2013,,165.54813
+Dubai,2014,,152.28407
+Dubai,2015,,80.39625
+Dubai,2016,,64.39507
+Dubai,2017,,83.21704
+Dubai,2018,,110.11678
+Dubai,2019,,100.0
+Dubai,2020,,66.576866
+Dubai,2021,,108.168106
+Dubai,2022,,151.28574
+Dubai,2023,,128.85986
+Indonesia,2019,100.0,
+Indonesia,2020,89.490005,
+Indonesia,2021,188.459,
+Indonesia,2022,252.6293,
+Indonesia,2023,167.45494,
+Japan,2003,53.844296,
+Japan,2004,100.87952,
+Japan,2005,87.840355,
+Japan,2006,88.64833,
+Japan,2007,129.92743,
+Japan,2008,214.59848,
+Japan,2009,113.61703,
+Japan,2010,147.43387,
+Japan,2011,171.44614,
+Japan,2012,136.33272,
+Japan,2013,122.422844,
+Japan,2014,103.48138,
+Japan,2015,81.68666,
+Japan,2016,97.402664,
+Japan,2017,130.52368,
+Japan,2018,153.23524,
+Japan,2019,100.0,
+Japan,2020,82.95786,
+Japan,2021,155.75227,
+Japan,2022,291.65393,
+Japan,2023,177.04309,
+Netherlands TTF,2005,,
+Netherlands TTF,2006,,
+Netherlands TTF,2007,,
+Netherlands TTF,2008,,
+Netherlands TTF,2009,,
+Netherlands TTF,2010,,
+Netherlands TTF,2011,,
+Netherlands TTF,2012,,
+Netherlands TTF,2013,,
+Netherlands TTF,2014,,
+Netherlands TTF,2015,,
+Netherlands TTF,2016,,
+Netherlands TTF,2017,,
+Netherlands TTF,2018,,
+Netherlands TTF,2019,,
+Netherlands TTF,2020,,
+Netherlands TTF,2021,,
+Netherlands TTF,2022,,
+Netherlands TTF,2023,,
+Nigerian Forcados,2003,,44.1649
+Nigerian Forcados,2004,,58.70951
+Nigerian Forcados,2005,,85.74491
+Nigerian Forcados,2006,,103.26178
+Nigerian Forcados,2007,,114.68277
+Nigerian Forcados,2008,,156.17445
+Nigerian Forcados,2009,,97.53769
+Nigerian Forcados,2010,,124.80047
+Nigerian Forcados,2011,,174.98773
+Nigerian Forcados,2012,,175.85388
+Nigerian Forcados,2013,,172.36368
+Nigerian Forcados,2014,,156.04848
+Nigerian Forcados,2015,,83.77271
+Nigerian Forcados,2016,,68.57841
+Nigerian Forcados,2017,,83.62374
+Nigerian Forcados,2018,,111.57777
+Nigerian Forcados,2019,,100.0
+Nigerian Forcados,2020,,65.14489
+Nigerian Forcados,2021,,107.411415
+Nigerian Forcados,2022,,156.12694
+Nigerian Forcados,2023,,128.71704
+Northwest Europe,2003,72.46178,
+Northwest Europe,2004,119.89073,
+Northwest Europe,2005,100.6191,
+Northwest Europe,2006,106.550705,
+Northwest Europe,2007,147.56526,
+Northwest Europe,2008,245.44072,
+Northwest Europe,2009,116.98965,
+Northwest Europe,2010,153.73882,
+Northwest Europe,2011,201.9056,
+Northwest Europe,2012,153.73882,
+Northwest Europe,2013,135.77112,
+Northwest Europe,2014,125.28645,
+Northwest Europe,2015,94.39442,
+Northwest Europe,2016,99.865234,
+Northwest Europe,2017,140.46036,
+Northwest Europe,2018,152.62099,
+Northwest Europe,2019,100.0,
+Northwest Europe,2020,83.316826,
+Northwest Europe,2021,203.77069,
+Northwest Europe,2022,484.12424,
+Northwest Europe,2023,215.29756,
+South Africa,2014,112.81369,
+South Africa,2015,85.28616,
+South Africa,2016,95.2807,
+South Africa,2017,128.59978,
+South Africa,2018,140.16173,
+South Africa,2019,100.00001,
+South Africa,2020,86.7541,
+South Africa,2021,173.31467,
+South Africa,2022,382.59302,
+South Africa,2023,179.01852,
+South China,2003,90.19098,
+South China,2004,121.48949,
+South China,2005,145.86975,
+South China,2006,152.07684,
+South China,2007,173.95831,
+South China,2008,298.24313,
+South China,2009,249.62952,
+South China,2010,312.7531,
+South China,2011,361.59042,
+South China,2012,317.89703,
+South China,2013,271.1,
+South China,2014,238.98859,
+South China,2015,191.86919,
+South China,2016,202.71384,
+South China,2017,269.12497,
+South China,2018,282.5446,
+South China,2019,100.0,
+South China,2020,87.04813,
+South China,2021,354.29794,
+South China,2022,505.0951,
+South China,2023,342.79437,
+UK NBP,2003,,
+UK NBP,2004,,
+UK NBP,2005,,
+UK NBP,2006,,
+UK NBP,2007,,
+UK NBP,2008,,
+UK NBP,2009,,
+UK NBP,2010,,
+UK NBP,2011,,
+UK NBP,2012,,
+UK NBP,2013,,
+UK NBP,2014,,
+UK NBP,2015,,
+UK NBP,2016,,
+UK NBP,2017,,
+UK NBP,2018,,
+UK NBP,2019,,
+UK NBP,2020,,
+UK NBP,2021,,
+UK NBP,2022,,
+UK NBP,2023,,
+US Henry Hub,2003,,
+US Henry Hub,2004,,
+US Henry Hub,2005,,
+US Henry Hub,2006,,
+US Henry Hub,2007,,
+US Henry Hub,2008,,
+US Henry Hub,2009,,
+US Henry Hub,2010,,
+US Henry Hub,2011,,
+US Henry Hub,2012,,
+US Henry Hub,2013,,
+US Henry Hub,2014,,
+US Henry Hub,2015,,
+US Henry Hub,2016,,
+US Henry Hub,2017,,
+US Henry Hub,2018,,
+US Henry Hub,2019,,
+US Henry Hub,2020,,
+US Henry Hub,2021,,
+US Henry Hub,2022,,
+US Henry Hub,2023,,
+United States,2003,67.389824,
+United States,2004,113.53608,
+United States,2005,122.66877,
+United States,2006,101.14186,
+United States,2007,87.0009,
+United States,2008,205.40492,
+United States,2009,106.246284,
+United States,2010,118.73582,
+United States,2011,148.2664,
+United States,2012,117.698875,
+United States,2013,121.96007,
+United States,2014,117.35387,
+United States,2015,90.207924,
+United States,2016,90.00025,
+United States,2017,111.652985,
+United States,2018,127.42991,
+United States,2019,100.0,
+United States,2020,74.813484,
+United States,2021,119.89742,
+United States,2022,275.64035,
+United States,2023,128.72992,
+West Texas Intermediate,2003,,54.46622
+West Texas Intermediate,2004,,72.74677
+West Texas Intermediate,2005,,99.22956
+West Texas Intermediate,2006,,115.792435
+West Texas Intermediate,2007,,126.60522
+West Texas Intermediate,2008,,175.45488
+West Texas Intermediate,2009,,108.578575
+West Texas Intermediate,2010,,139.31097
+West Texas Intermediate,2011,,166.64117
+West Texas Intermediate,2012,,165.0467
+West Texas Intermediate,2013,,171.82498
+West Texas Intermediate,2014,,163.56685
+West Texas Intermediate,2015,,85.40622
+West Texas Intermediate,2016,,75.999466
+West Texas Intermediate,2017,,89.0626
+West Texas Intermediate,2018,,114.33343
+West Texas Intermediate,2019,,100.0
+West Texas Intermediate,2020,,68.81452
+West Texas Intermediate,2021,,119.403015
+West Texas Intermediate,2022,,165.84172
+West Texas Intermediate,2023,,138.3129
+Zeebrugge,2005,,
+Zeebrugge,2006,,
+Zeebrugge,2007,,
+Zeebrugge,2008,,
+Zeebrugge,2009,,
+Zeebrugge,2010,,
+Zeebrugge,2011,,
+Zeebrugge,2012,,
+Zeebrugge,2013,,
+Zeebrugge,2014,,
+Zeebrugge,2015,,
+Zeebrugge,2016,,
+Zeebrugge,2017,,
+Zeebrugge,2018,,
+Zeebrugge,2019,,
+Zeebrugge,2020,,
+Zeebrugge,2021,,
+Zeebrugge,2022,,
+Zeebrugge,2023,,
